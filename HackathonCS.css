@@ -1,0 +1,36 @@
+#navItems{
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    width: 100%;
+    background: linear-gradient(#0ca2cc,#773b90);
+    font-weight: bold;
+    font-size: 23px;
+}
+
+#navItems li{
+	padding: 0px 5px 0px 5px;
+	display: inline;
+}
+header{
+	background-color: #03233f;
+}
+#about{
+	text-align: justify;
+	padding: 5px 25% 5px 25%;
+	margin: 30px auto 30px auto;
+}
+#gameGif{
+	padding: : 10px 25% 10px 25%;
+	text-align: center;
+	/*padding:30px 10% 30px 10%; */
+}
+#L1Container{
+	padding: 5px;
+	align-content: center;
+}
+h2{
+	text-align: center;
+	background-color: #0ca2cc;
+}
+
